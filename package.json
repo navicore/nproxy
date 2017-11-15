@@ -1,0 +1,11 @@
+{
+  "name": "nproxy",
+  "version": "1.0.0",
+  "description": "reverse proxy",
+  "main": "main.js",
+  "author": "ed@onextent.com",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
